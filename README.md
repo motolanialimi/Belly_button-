@@ -6,8 +6,6 @@
 
 2. Use JavaScript and D3 to take the routes and build an interactive Web Visualization Dashboard for the data
 
-3. Deploy the [App](https://github.com/motolanialimi) to the web using Heroku
-
 # Built With
 
 Plotly
@@ -28,4 +26,3 @@ none
 
 # Acknowledgments
 Northwestern Data Science Boot Camp
-Markdown-Cheatsheet
